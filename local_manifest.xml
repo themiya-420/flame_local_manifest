@@ -7,8 +7,8 @@
 
 
          <!-- Sync trees -->
-        <project path="device/google/flame" name="ArrowOS-Devices/android_device_google_coral" remote="github" revision="arrow-13.0" />
-        <project path="vendor/google/flame" name="ArrowOS-Devices/android_vendor_google_flame" remote="github" revision="arrow-13.0" />
+        <project path="device/google/flame" name="PixelOS-Devices/device_google_coral" remote="github" revision="fourteen" />
+        <project path="vendor/google/flame" name="Yularzhi/vendor_google_flame" remote="github" revision="thirteen" />
         <project path="kernel/google/flame" name="LineageOS/android_kernel_google_msm-4.14" remote="github" revision="lineage-21" />       
 
 </manifest>
